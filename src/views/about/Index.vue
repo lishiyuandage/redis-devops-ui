@@ -54,7 +54,7 @@
 export default {
   methods: {
     goGithub () {
-      window.location.href = 'http://baidu.com/'
+      window.location.href = 'https://github.com:lishiyuandage/redis-devops'
     }
   }
 }
