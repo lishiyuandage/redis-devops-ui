@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"mdi-database",
+        "title":"数据源",
+        "url":"/database"
+    },
+    {
+        "icon":"mdi-console",
+        "title":"命令",
+        "url":"/redis"
+    },
+    {
+        "icon":"mdi-alert-circle-check-outline",
+        "title":"关于",
+        "url":"/about"
+    }
+]
