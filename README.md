@@ -1,4 +1,4 @@
-# shiftcopy-web
+# redis-devops-ui
 
 ## Project setup
 ```
